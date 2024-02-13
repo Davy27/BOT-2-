@@ -8,7 +8,7 @@ from colorama import Fore
 colorama.init()
 
 # Token del tuo bot Discord
-BOT_TOKEN = 'MTIwNTgzNTM0NjEwNTg2ODMwOA.GqMRzV.pcH9ErYcCbC9WrMm13EJWjyDnaI5iRUzjI_6y0'
+BOT_TOKEN = 'MTIwNTgzNTM0NjEwNTg2ODMwOA.GbITzt.hiwM0OzFXuF-qfBkK0BiDuWlB9r-7uMlXhS3Go'
 # Token API di DeepL
 DEEPL_API_TOKEN = 'df6aa9e5-4aaf-4948-2d1e-3b4475df97de:fx'
 
